@@ -51,5 +51,9 @@ while num != 0:
 
 print(int(str(reversed_num)))
 
+"""output
+12345
+54321"""
+
 
 
