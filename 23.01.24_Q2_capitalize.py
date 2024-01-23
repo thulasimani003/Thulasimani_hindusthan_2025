@@ -49,8 +49,8 @@ if __name__ == '__main__':
 
 #output
 
-Input (stdin)
+"""Input (stdin)
 hello world
 
 Your Output (stdout)
-Hello World
+Hello World"""
